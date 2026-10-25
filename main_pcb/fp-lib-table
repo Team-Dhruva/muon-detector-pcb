@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "FB-SMD") (type "KiCad") (uri "${KIPRJMOD}/FB-SMD.pretty") (options "") (descr ""))
+	(lib (name "BNC_MOLEX") (type "KiCad") (uri "${KIPRJMOD}/BNC_MOLEX.pretty") (options "") (descr ""))
+	(lib (name "custom") (type "KiCad") (uri "${KIPRJMOD}/custom.pretty") (options "") (descr ""))
+)
