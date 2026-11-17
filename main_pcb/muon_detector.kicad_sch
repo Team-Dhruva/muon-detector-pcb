@@ -7759,7 +7759,7 @@
 			)
 		)
 	)
-	(global_label "Trigger Threshold"
+	(global_label "TriggerThreshold"
 		(shape input)
 		(at 248.92 90.17 0)
 		(fields_autoplaced yes)
@@ -7771,7 +7771,7 @@
 		)
 		(uuid "432ff4e9-7f19-4986-bd3a-6f8816e4faf3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 268.5359 90.17 0)
+			(at 267.5683 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14665,7 +14665,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x03_P1.27mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
 			(at 20.32 83.82 0)
 			(hide yes)
 			(show_name no)
